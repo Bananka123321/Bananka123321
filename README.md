@@ -13,17 +13,43 @@
 
 ---
 
-## Текущие проекты
+##  Проекты
 
 ### Асинхронный TCP мессенджер
-Многопоточный мессенджер с асинхронным вводом-выводом. Сервер уже развёрнут на Ubuntu в Новосибирске — учусь работать с реальным Linux-окружением.
+[![GitHub](https://img.shields.io/badge/GitHub-Репозиторий-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bananka123321/Ivan-Messenger)
+[![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B)]()
+[![Qt](https://img.shields.io/badge/Qt-6-green?style=for-the-badge&logo=qt)]()
+[![CMake](https://img.shields.io/badge/CMake-Build-064F8C?style=for-the-badge&logo=cmake)]()
 
-**Стек:** C++17 · Qt · TCP · Многопоточность · Linux · PostgreSQL · CMake
+Многопоточный мессенджер с асинхронным вводом-выводом. Сервер развёрнут на Ubuntu.
 
-### Сетевая игра "Морской бой"
-Многопользовательская игра по сети на Qt/C++. Реализован сетевой протокол, синхронизация между клиентами.
+**Особенности:**
+- Многопоточный сервер (thread pool)
+- GUI клиент на Qt
+- Развёрнут на Linux (Ubuntu)
+- Сетевой протокол на TCP
+- Кроссплатформенность (Windows/Linux)
+- Сборка через CMake
+- GitHub Actions CI/CD
 
-**Стек:** C++17 · Qt · TCP · Многопоточность · Linux · CMake
+---
+
+### ⚔️ Сетевая игра "Морской бой"
+[![GitHub](https://img.shields.io/badge/GitHub-Репозиторий-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bananka123321/Sea_Battle)
+[![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B)]()
+[![Qt](https://img.shields.io/badge/Qt-6-green?style=for-the-badge&logo=qt)]()
+[![CMake](https://img.shields.io/badge/CMake-Build-064F8C?style=for-the-badge&logo=cmake)]()
+
+Многопользовательская игра по сети с синхронизацией состояния.
+
+**Особенности:**
+- Многопоточный сервер (thread pool)
+- GUI клиент на Qt
+- Развёрнут на Linux (Ubuntu)
+- Сетевой протокол на TCP
+- Кроссплатформенность (Windows/Linux)
+- Сборка через CMake
+- GitHub Actions CI/CD
 
 ---
 
