@@ -34,7 +34,7 @@
 
 ---
 
-### ⚔️ Сетевая игра "Морской бой"
+### Сетевая игра "Морской бой"
 [![GitHub](https://img.shields.io/badge/GitHub-Репозиторий-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bananka123321/Sea_Battle)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B)]()
 [![Qt](https://img.shields.io/badge/Qt-6-green?style=for-the-badge&logo=qt)]()
@@ -93,7 +93,7 @@
 
 ## Контакты
 
-- Email: *[vanushabrend@gmail.com]*
+- Email: *[obuhov.i2007@gmail.com]*
 - Telegram: *[https://t.me/M1CROmash]*
 - Хабр: *[https://habr.com/ru/users/Bananka123321/]*
 
