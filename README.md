@@ -17,7 +17,7 @@
 
 ### Асинхронный TCP мессенджер
 [![GitHub](https://img.shields.io/badge/GitHub-Репозиторий-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bananka123321/Ivan-Messenger)
-[![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-20-blue?style=for-the-badge&logo=c%2B%2B)]()
 [![Qt](https://img.shields.io/badge/Qt-6-green?style=for-the-badge&logo=qt)]()
 [![CMake](https://img.shields.io/badge/CMake-Build-064F8C?style=for-the-badge&logo=cmake)]()
 
@@ -36,7 +36,7 @@
 
 ### Сетевая игра "Морской бой"
 [![GitHub](https://img.shields.io/badge/GitHub-Репозиторий-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bananka123321/Sea_Battle)
-[![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-20-blue?style=for-the-badge&logo=c%2B%2B)]()
 [![Qt](https://img.shields.io/badge/Qt-6-green?style=for-the-badge&logo=qt)]()
 [![CMake](https://img.shields.io/badge/CMake-Build-064F8C?style=for-the-badge&logo=cmake)]()
 
@@ -56,7 +56,7 @@
 ## Технический стек
 
 **Языки:**
-![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-20-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Фреймворки и библиотеки:**
 ![Qt](https://img.shields.io/badge/Qt-6-green?style=for-the-badge&logo=qt&logoColor=white)
