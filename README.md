@@ -174,7 +174,11 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=Bananka123321&theme=tokyonight&hide_border=true&background=0d1117&ring=1f6feb&fire=58A6FF&currStreakLabel=58A6FF&locale=ru" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bananka123321&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bananka123321/Bananka123321/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bananka123321/Bananka123321/output/github-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/Bananka123321/Bananka123321/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
